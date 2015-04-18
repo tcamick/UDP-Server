@@ -7,8 +7,6 @@
  */
  /*
  * UDPclient.h
- * Systems and Networks II
- * Project 2
  *
  * This file describes the functions to be implemented by the UDPclient.
  * You may also implement any auxillary functions you deem necessary.
