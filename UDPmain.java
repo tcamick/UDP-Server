@@ -1,7 +1,5 @@
 /*
  * UDPmain.java
- * Systems and Networks II
- * Project 2
  *
  * This file implements the Java test program for testing the UDP client-server communication.
  */
