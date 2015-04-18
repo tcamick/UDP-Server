@@ -8,8 +8,6 @@ import java.util.StringTokenizer;
 
 /*
  * UDPclient.java
- * Systems and Networks II
- * Project 2
  *
  * This file describes the functions to be implemented by the UDPclient class
  * You may also implement any auxiliary functions you deem necessary.
